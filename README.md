@@ -1,5 +1,5 @@
 ## DESCRIPTION
-
+This challenge made us create the back-end for e-commerce site that needed the use of working express.js, API and sequelize to interact with a mysql database.
 
 ## USER STORY
 AS A manager at an internet retail company
